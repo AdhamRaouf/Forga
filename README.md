@@ -2,7 +2,7 @@
 Forga is a movie app that works with API 
 - CoreData
 - package dependencies (SDWebImage)
-- MVVC design pattern
+- MVVM design pattern
 - programmatic UI
 - use TabBar, Navbar
 - use Protocols, Extensions, Delegate
